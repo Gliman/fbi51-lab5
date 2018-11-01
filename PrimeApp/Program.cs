@@ -10,7 +10,6 @@ namespace PrimeApp
 
             var prim = srv.PrimeName("Ponkratyeva");
 
-            Console.WriteLine($"PrimeName: {prim}");
         }
     }
 }
